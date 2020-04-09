@@ -1,0 +1,4 @@
+name = "FastConv"
+uuid = "8ab28ddf-b38c-4946-b724-f71a3565733e"
+authors = ["Charlotte Haley <haleycharlotte@gmail.com>"]
+version = "0.1.0"
